@@ -7,4 +7,8 @@ just to test
 On Newbranch
 On conflict branch and modifying this files.
 
+<<<<<<< Updated upstream
 something in before stash
+=======
+to check the stash
+>>>>>>> Stashed changes
