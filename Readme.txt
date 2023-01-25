@@ -6,3 +6,5 @@ just to test
 
 On Newbranch
 On conflict branch and modifying this files.
+
+something in before stash
